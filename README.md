@@ -16,4 +16,6 @@ Atualmente tenho estudado Lua e C++ para criação e desenvolvimento de jogos e 
 
 ## Projetos mais recentes
 
-- [Bloco de notas - feito em javaScript (ElectronJs)](https://github.com/EstevanChicoskiVieira/Bloco-de-Notas)
+- [Bloco de notas - feito em javaScript (ElectronJs)](https://github.com/EstevanChicoskiVieira/Bloco-de-Notas)</br>
+- [Landing page simples em Html e Css](https://estevanchicoskivieira.github.io/landingPage/)</br>
+- [Site para cafeteria simples feito em Html e Css](https://estevanchicoskivieira.github.io/JeallCoffee/)
