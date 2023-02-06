@@ -13,3 +13,9 @@ Informações sobre meu perfil no GitHub:
 
 ![Jeall GitHub stats](https://github-readme-stats.vercel.app/api?username=EstevanChicoskiVieira&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanChicoskiVieira&layout=compact)](https://github.com/EstevanChicoskiVieira/github-readme-stats)
+
+##Projetos mais recentes
+
+https://github.com/EstevanChicoskiVieira/Bloco-de-Notas
+https://estevanchicoskivieira.github.io/landingPage/
+https://estevanchicoskivieira.github.io/JeallCoffee/
