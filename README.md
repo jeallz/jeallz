@@ -18,4 +18,5 @@ Atualmente tenho estudado Lua e C++ para criação e desenvolvimento de jogos e 
 
 - [Bloco de notas - feito em javaScript (ElectronJs)](https://github.com/EstevanChicoskiVieira/Bloco-de-Notas)</br>
 - [Landing page simples em Html e Css](https://estevanchicoskivieira.github.io/landingPage/)</br>
-- [Site para cafeteria simples feito em Html e Css](https://estevanchicoskivieira.github.io/JeallCoffee/)
+- [Site para cafeteria simples feito em Html e Css](https://estevanchicoskivieira.github.io/JeallCoffee/)</br>
+- [Site YouTube clone (não está responsivo)](https://estevanchicoskivieira.github.io/youtubeClone/)
