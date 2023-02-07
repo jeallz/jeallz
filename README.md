@@ -2,6 +2,8 @@
 
 Atualmente sou focado em desenvolvimento web com Html, Css, JavaScript e ReactJs, mas também tenho experiência acadêmica em criação de bots para Discord usando a galeria Discord.js (Nodejs), na criação de aplicativos móveis usando a tecnologia React Native e na criação de Aplicações para Desktop usando ElectronJs.
 
+Já tive contato com Php e Laravel, por mais que eu não tenha interessse na linguagem Php
+
 Atualmente tenho estudado Lua e C++ para criação e desenvolvimento de jogos e também estudo hacking OSINT, OWASP e OSSTMM, mas futuramente pretendo estudar mais coisas como o VueJs, AngularJs, Sass, Scss e Ruby/Ryby on Rails.
 
 
