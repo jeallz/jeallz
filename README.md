@@ -17,8 +17,11 @@ Atualmente tenho estudado Lua e C++ para criação e desenvolvimento de jogos e 
 
 ### Informações sobre meu perfil no GitHub:
 
-![Estevan GitHub stats](https://github-readme-stats.vercel.app/api?username=EstevanChicoskiVieira_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanChicoskiVieira&layout=compact)](https://github.com/EstevanChicoskiVieira/github-readme-stats)
+<div>
+  <a href="https://github.com/EstevanChicoskiVieira"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstevanChicoskiVieira_icons=true&theme=tokyonight" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=EstevanChicoskiVieira_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanChicoskiVieira&layout=compact)" />
+</div>
 
 ## Projetos mais recentes
 
