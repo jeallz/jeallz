@@ -19,7 +19,7 @@ Atualmente tenho estudado Lua e C++ para criação e desenvolvimento de jogos e 
 
 <div>
   <a href="https://github.com/EstevanChicoskiVieira"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstevanChicoskiVieira_icons=true&theme=tokyonight" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=EstevanChicoskiVieira_icons=true&theme=tokyonight](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" />
   <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=EstevanChicoskiVieira_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanChicoskiVieira&layout=compact)" />
 </div>
 
