@@ -17,12 +17,8 @@ Atualmente tenho estudado Lua e C++ para criação e desenvolvimento de jogos e 
 
 ### Informações sobre meu perfil no GitHub:
 
-<div>
-  <a href="https://github.com/EstevanChicoskiVieira"></a>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=EstevanChicoskiVieira_icons=true&theme=tokyonight](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" />
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=EstevanChicoskiVieira_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanChicoskiVieira&layout=compact)" />
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstevanChicoskiVieira&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanChicoskiVieira&layout=compact&theme=radical)](https://github.com/EstevanChicoskiVieira/github-readme-stats)
 ## Projetos mais recentes
 
 - [Bloco de notas - feito em javaScript (ElectronJs)](https://github.com/EstevanChicoskiVieira/Bloco-de-Notas)</br>
