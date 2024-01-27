@@ -1,4 +1,4 @@
-## Olá, eu sou Estevan Chicoski Vieira (Waade*)
+## Olá, eu sou Estevan Chicoski Vieira (Jeall)
 
 Link para meu portfólio: https://estevancv.online
 
