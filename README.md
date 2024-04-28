@@ -15,7 +15,7 @@ Atualmente tenho estudado Lua e C++ para criação e desenvolvimento de jogos e 
 
 ### Redes Sociais:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevan-chicoski-vieira-79a3a6265/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EstevanChicoskiVieira/)
 
 ### Informações sobre meu perfil no GitHub:
 
@@ -23,7 +23,7 @@ Atualmente tenho estudado Lua e C++ para criação e desenvolvimento de jogos e 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanChicoskiVieira&layout=compact&theme=radical)](https://github.com/EstevanChicoskiVieira/github-readme-stats)
 ## Projetos mais recentes
 
-- [Bloco de notas - feito em javaScript (ElectronJs)](https://github.com/EstevanChicoskiVieira/Bloco-de-Notas)</br>
-- [Landing page simples em Html e Css](https://estevanchicoskivieira.github.io/landingPage/)</br>
+- [Uma página mostrando formas de me contatar](https://estevancdev.vercel.app/)</br>
+- [Site para cafeteria (não resposivo/adaptativo para mobile)](https://estevanchicoskivieira.github.io/landingPage/)</br>
 - [Site para cafeteria simples feito em Html e Css](https://estevanchicoskivieira.github.io/JeallCoffee/)</br>
 - [Site YouTube clone (não está responsivo)](https://estevanchicoskivieira.github.io/youtubeClone/)
