@@ -1,6 +1,7 @@
 ## Olá, eu sou Estevan Chicoski Vieira (waade)
 
 Link para meu portfólio: https://estevandev.vercel.app/
+Outros links de contato: https://estevancdev.vercel.app/
 
 Atualmente sou focado em desenvolvimento web com Html, Css, Sass, JavaScript e desenvolvimento mobile com Dart/Flutter tenho experiência usando wordpress e magento, e também tenho experiência acadêmica em criação de bots para Discord usando a galeria Discord.js (Nodejs) e na criação de Aplicações para Desktop usando ElectronJs.
 
