@@ -4,7 +4,7 @@ Link para meu portfólio: https://estevandev.vercel.app/
 
 Outros links de contato: https://estevancdev.vercel.app/
 
-Atualmente sou focado em desenvolvimento web com Html, Css, Sass, JavaScript e desenvolvimento mobile com Dart/Flutter tenho experiência usando wordpress e magento, e também tenho experiência acadêmica em criação de bots para Discord usando a galeria Discord.js (Nodejs) e na criação de Aplicações para Desktop usando ElectronJs.
+Atualmente sou focado em desenvolvimento web com Html, Css, Sass, JavaScript e desenvolvimento mobile com Dart/Flutter. Tenho experiência usando wordpress e magento, e também tenho experiência acadêmica em criação de bots para Discord usando a galeria Discord.js (Nodejs) e na criação de Aplicações para Desktop usando ElectronJs.
 
 Atualmente tenho estudado Lua e C++ para criação e desenvolvimento de jogos e também estudo hacking OSINT, OWASP e OSSTMM, mas futuramente pretendo estudar mais coisas como o AngularJs, Ruby/Ryby on Rails e Java.
 
