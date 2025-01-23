@@ -1,4 +1,4 @@
-## Olá, eu sou Estevan Chicoski Vieira (waade)
+## Olá, eu sou Estevan Chicoski Vieira
 
 Link para meu portfólio: https://estevandev.vercel.app/
 
