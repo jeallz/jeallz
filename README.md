@@ -8,8 +8,7 @@ Meu ultimo projeto e site da minha empresa: https://nxtbots.com/
 
 Atualmente sou focado em desenvolvimento web com Html, Css, Sass, JavaScript e desenvolvimento mobile com Dart/Flutter. Tenho experiência usando wordpress e magento, e também tenho experiência acadêmica em criação de bots para Discord usando a galeria Discord.js (Nodejs) e na criação de Aplicações para Desktop usando ElectronJs.
 
-Atualmente tenho estudado Lua e C++ para criação e desenvolvimento de jogos e também estudo hacking OSINT, OWASP e OSSTMM, mas futuramente pretendo estudar mais coisas como o AngularJs, Ruby/Ryby on Rails e Java.
-
+Atualmente estou focado no desenvolvimento de bots de Discord em discord.js v14, devido a um empreendimento meu. A NXT Bots: nxtbots.com
 
 Comunidade de programadores e hackers com o intuito de ajudar pessoas novas na área e pessoas já experientes:
 https://discord.gg/illusionsociety
