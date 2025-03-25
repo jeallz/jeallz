@@ -4,7 +4,7 @@ Link para meu portfólio: https://estevandev.vercel.app/
 
 Outros links de contato: https://estevancdev.vercel.app/
 
-Meu ultimo projeto e site da minha empresa: https://nxtbots.com/
+Meu ultimo projeto e site do meu bot: https://nxtbots.com/
 
 Atualmente sou focado em desenvolvimento web com Html, Css, Sass, JavaScript e desenvolvimento mobile com Dart/Flutter. Tenho experiência usando wordpress e magento, e também tenho experiência acadêmica em criação de bots para Discord usando a galeria Discord.js (Nodejs) e na criação de Aplicações para Desktop usando ElectronJs.
 
