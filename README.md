@@ -2,7 +2,8 @@
 
 Link para meu portfólio: https://jeallz.space/
 
-Meu ultimo projeto e site do meu bot: https://nxtbots.com/
+NXT Bots: https://nxtbots.com/
+NXT Agência Web: https://nxtweb.com.br/
 
 Atualmente sou focado em desenvolvimento web com Html, Css, Sass, JavaScript e desenvolvimento mobile com Dart/Flutter. Tenho experiência usando wordpress e magento, e também tenho experiência acadêmica em criação de bots para Discord usando a galeria Discord.js (Nodejs) e na criação de Aplicações para Desktop usando ElectronJs.
 
