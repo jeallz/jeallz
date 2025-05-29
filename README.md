@@ -1,8 +1,6 @@
 ## Olá, eu sou Estevan Chicoski Vieira
 
-Link para meu portfólio: https://estevandev.vercel.app/
-
-Outros links de contato: https://estevancdev.vercel.app/
+Link para meu portfólio: https://jeallz.space/
 
 Meu ultimo projeto e site do meu bot: https://nxtbots.com/
 
