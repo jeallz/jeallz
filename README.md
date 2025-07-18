@@ -18,7 +18,7 @@
   <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=jeallz&s=40&c=856652&bg=00000000&no=3&ff=digi&tb=&ta=" alt="visits"></p> 
 </div>
 <div align="center" width="100%">
-<a href="https://jeallz.space/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&letterSpacing=1px&pause=1000&color=856652&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Discord+Developer;Designer;CEO" alt="Typing SVG" /></a>
+<a href="https://jeallz.space/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&letterSpacing=1px&pause=1000&color=856652&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Discord+Developer;Designer" alt="Typing SVG" /></a>
 </div>
 
 <br>
