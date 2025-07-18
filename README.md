@@ -5,11 +5,11 @@
 
 <div align="center">
   <samp>
-    <b>
+    <h1>
       𓆩♡𓆪
-    </b>
+    </h1>
       <br>
-        Hi there! I'm Jeallz.
+        <img src="https://jeallz.space/Assets/Imgs/hey.png" /> 
       <br>
   </samp>
 </div>
