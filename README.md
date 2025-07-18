@@ -83,7 +83,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=e9dbc5)](mailto:estevancv123@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=e9dbc5)](mailto:contato@jeallz.space)
   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=e9dbc5)](https://www.instagram.com/estevandev_pjl/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=e9dbc5)](https://discord.gg/gKCSupFJjQ)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=e9dbc5)](https://www.linkedin.com/in/estevanchicoskivieira/)
