@@ -8,7 +8,9 @@
       𓆩♡𓆪
     </b>
       <br>
-        <img src="https://jeallz.space/Assets/Imgs/hey.png" /> 
+        <a href="https://jeallz.space" style="text-decoration: none;">
+          <img src="https://jeallz.space/Assets/Imgs/hey.png" /> 
+        </a>
       <br>
   </samp>
 </div>
