@@ -1,11 +1,12 @@
-## Olá, eu sou o Cael
+## Olá, eu sou o Jeall
 
 NXT Bots: https://nxtbots.com/
+
 NXT Agência Web: https://nxtweb.com.br/
 
-Atualmente sou focado em desenvolvimento web com Html, Css, Sass, JavaScript e desenvolvimento mobile com Dart/Flutter. Tenho experiência usando wordpress e magento, e também tenho experiência acadêmica em criação de bots para Discord usando a galeria Discord.js (Nodejs) e na criação de Aplicações para Desktop usando ElectronJs.
+Sou desenvolvedor full-stack com JS. Trabalho principalmente com aplicações e sistemas web, mas também tenho experiência em desenvolvimento mobile para Android e IOs com Flutter, para aplicaões desktop com Electron e bots de discord em Discord.js.
 
-Atualmente estou focado no desenvolvimento de bots de Discord em discord.js v14, devido a um empreendimento meu. A NXT Bots: nxtbots.com
+Tenho alguns empreendimentos no ramo de tecnologia, sendo a NXT Bots, que oferece serviços de bots de discord, e a NXT Agência Web, que oferece serviços de desenvolvimento de site institucional, LP, Gestão de Tráfego Pago, Criação de Identidade Visual e Otimização de SEO.
 
 ### Algumas linguagens e tecnologias:
 
