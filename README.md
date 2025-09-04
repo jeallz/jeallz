@@ -85,7 +85,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=e9dbc5)](mailto:contato@jeallz.space)
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=e9dbc5)](mailto:estevancv123@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=e9dbc5)](https://www.instagram.com/estevandev_pjl/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=e9dbc5)](https://discord.gg/gKCSupFJjQ)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=e9dbc5)](https://www.linkedin.com/in/estevanchicoskivieira/)
@@ -98,7 +98,7 @@
       <samp>
         <a href="https://jeallz.space/">Portfólio</a> ・
         <a href="https://nxtweb.com.br/">NXT Agência Web</a> ・
-        <a href="https://nxtbots.com/">NXT Bots</a>
+        <a href="https://instagram.com/jeallz.space/">Instagram</a>
       </samp>
   </p>
 
