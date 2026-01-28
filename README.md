@@ -44,13 +44,6 @@
   <br>
   <br>
   <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeallz&theme=calm"
-  />
-  <br>
-  <br>
-  <img
     height=154
     align="center"
     alt="Top Language"
