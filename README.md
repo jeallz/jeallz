@@ -41,14 +41,6 @@
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeallz&layout=compact&font=Montserrat&langs_count=16&theme=calm"
   />
-  <br>
-  <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=jeallz&theme=calm&card_width=885"
-  />
   </div>
 
 <div align="center" style="display: inline_block"><br>
