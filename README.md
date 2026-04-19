@@ -8,15 +8,15 @@
       𓆩♡𓆪
     </b>
       <br>
-        <a href="https://jeallz.space" style="text-decoration: none;">
-          <img src="https://jeallz.space/Assets/Imgs/hey.png" /> 
+        <a href="https://estevan.dev.br/" style="text-decoration: none;">
+          <img src="https://github.com/jeallz/Jeallz-Dev/blob/main/Assets/Imgs/hey.png" /> 
         </a>
       <br>
   </samp>
 </div>
 
 <div align="center" width="100%">
-<a href="https://jeallz.space/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&letterSpacing=1px&pause=1000&color=856652&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Discord+Developer;Designer" alt="Typing SVG" /></a>
+<a href="https://estevan.dev.br/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&letterSpacing=1px&pause=1000&color=856652&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Discord+Developer;Designer" alt="Typing SVG" /></a>
 <br>
 <br>
 <details align="center">  
@@ -72,7 +72,6 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=e9dbc5)](mailto:estevancv123@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=e9dbc5)](https://www.instagram.com/jeallz.space/)
-  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=e9dbc5)](https://discord.gg/gbVGtNSBth)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=e9dbc5)](https://www.linkedin.com/in/jeallz/)
   
 </div>
@@ -81,8 +80,8 @@
 
 <p align="center">
       <samp>
-        <a href="https://jeallz.space/">Portfólio</a> ・
-        <a href="https://nxtweb.com.br/">NXT Agência Web</a> ・
+        <a href="https://estevan.dev.br/">Portfólio</a> ・
+        <a href="https://linkedin.com/in/jeallz/">Linkedin</a> ・
         <a href="https://instagram.com/jeallz.space/">Instagram</a>
       </samp>
   </p>
