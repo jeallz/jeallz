@@ -9,7 +9,7 @@
     </b>
       <br>
         <a href="https://estevan.dev.br/" style="text-decoration: none;">
-          <img src="https://github.com/jeallz/Jeallz-Dev/blob/main/Assets/Imgs/hey.png" /> 
+          <img src="https://www.estevan.dev.br/hey.png" /> 
         </a>
       <br>
   </samp>
