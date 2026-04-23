@@ -14,13 +14,12 @@
       <br>
   </samp>
 </div>
-
-<div align="center" width="100%">
-<a href="https://estevan.dev.br/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&letterSpacing=1px&pause=1000&color=856652&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Discord+Developer;Web+Designer" alt="Typing SVG" /></a>
-<br>
 <a href="https://estevan.dev.br/">
 <img src="https://www.estevan.dev.br/www.estevan.dev.br.png/" alr="Portfólio"/>
 </a>
+<br>
+<div align="center" width="100%">
+<a href="https://estevan.dev.br/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&letterSpacing=1px&pause=1000&color=856652&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Discord+Developer;Web+Designer" alt="Typing SVG" /></a>
 <br>
 <br>
 <details align="center">  
