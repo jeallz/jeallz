@@ -25,7 +25,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b style="font-size: 15pt;">More Info</b>
       </samp>
   </summary>
   
@@ -74,7 +74,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=e9dbc5)](mailto:estevancv123@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=e9dbc5)](https://www.instagram.com/jeallz.space/)
+  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=e9dbc5)](https://www.instagram.com/estevan.dev.br/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=e9dbc5)](https://www.linkedin.com/in/jeallz/)
   
 </div>
@@ -85,7 +85,7 @@
       <samp>
         <a href="https://estevan.dev.br/">Portfólio</a> ・
         <a href="https://linkedin.com/in/jeallz/">Linkedin</a> ・
-        <a href="https://instagram.com/jeallz.space/">Instagram</a>
+        <a href="https://instagram.com/estevan.dev.br/">Instagram</a>
       </samp>
   </p>
 
