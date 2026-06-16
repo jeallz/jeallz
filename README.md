@@ -21,6 +21,20 @@
 <br>
 <a href="https://estevan.dev.br/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&letterSpacing=1px&pause=1000&color=856652&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Discord+Developer;Web+Designer" alt="Typing SVG" /></a>
 <br>
+  <div align="center" style="display: inline_block"><br>
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/node-js.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/express.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/next.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/react.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/sass.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/js.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/git.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/mongodb.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/ejs.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/handlebars.png" />
+  
+</div>
+<br>
 <br>
 <details align="center">  
   <summary>
@@ -45,20 +59,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeallz&layout=compact&font=Montserrat&langs_count=16&theme=calm"
   />
   </div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/node-js.png" />
-  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/express.png" />
-  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/next.png" />
-  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/react.png" />
-  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/sass.png" />
-  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/js.png" />
-  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/git.png" />
-  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/mongodb.png" />
-  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/ejs.png" />
-  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/handlebars.png" />
-  
-</div>
 
 <br>
 
