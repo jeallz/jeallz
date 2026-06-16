@@ -47,16 +47,16 @@
   </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/node-js.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/express.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/next.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/react.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/sass.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/js.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/git.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/mongodb.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/ejs.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/handlebars.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/node-js.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/express.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/next.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/react.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/sass.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/js.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/git.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/mongodb.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/ejs.png" />
+  <img width="50" src="https://www.estevan.dev.br/Assets/Images/Linguagens/handlebars.png" />
   
 </div>
 
