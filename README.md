@@ -93,7 +93,6 @@
 
 ##
 
-![Snake Animation](https://github.com/jeallz/snake_animation/raw/output/snake.svg)
 </details>
 
 <br>
