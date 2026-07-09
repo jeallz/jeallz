@@ -49,7 +49,7 @@ class estevan = {
         this.coffee = hasCoffee(coffee);
     }
 
-    hasCoffee() {
+    hasCoffee(coffee) {
         if (coffee) {
             return "☕";
         } else {
