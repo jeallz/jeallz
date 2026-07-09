@@ -33,22 +33,32 @@
   <h1>👋 About me</h1>
   
 ```js
-class Estevan = {
+class estevan = {
     constructor () {
-        name = "Estevan";
-        lastname = "Chicoski Vieira";
-        nickname = "Jeallz";
-        age = 19;
-        nationality = "Brazil"
-        favorite_language = "JavaScript";
-        languages = {
+        this.name = "Estevan";
+        this.lastname = "Chicoski Vieira";
+        this.nickname = "Jeallz";
+        this.age = 19;
+        this.nationality = "Brazil"
+        this.favorite_language = "JavaScript";
+        this.languages = {
             portuguese : "Fluent",
             english : "Intermediate",
             spanish : "Beginner"
         };
-        coffee = true;
+        this.coffee = hasCoffee(coffee);
+    }
+
+    hasCoffee() {
+        if (coffee) {
+            return "☕";
+        } else {
+            return "😴";
+        }
     }
 }
+
+const Estevan = new estevan();
 ```
 <br><br><br>
 <h1>🛠️ Tech Stack</h1>
