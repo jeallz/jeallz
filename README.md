@@ -1,43 +1,27 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=856652"/>
-
-<br>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:856652,50:856652,100:856652&height=220&section=header&text=Estevan%20Chicoksi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=💻%20Building%20the%20Future%20|%20One%20Commit%20at%20a%20Time&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 <div align="center">
-  <samp>
-    <b>
-      𓆩♡𓆪
-    </b>
-      <br>
-        <a href="https://estevan.dev.br/" style="text-decoration: none;">
-          <img src="https://www.estevan.dev.br/hey.png" /> 
-        </a>
-      <br>
-  </samp>
+
 </div>
 <div align="center" width="100%">
   <a href="https://estevan.dev.br/">
-<img src="https://www.estevan.dev.br/www.estevan.dev.br.png/" alr="Portfólio"/>
+<img width="380px" src="https://www.estevan.dev.br/www.estevan.dev.br.png/" alr="Portfólio"/>
 </a>
 <br>
-<a href="https://estevan.dev.br/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&letterSpacing=1px&pause=1000&color=856652&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Discord+Developer;Web+Designer" alt="Typing SVG" /></a>
-<br>
-  <div align="center" style="display: inline_block"><br>
-  <img style="padding-right: 10px;" width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/node-js.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/express.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/next.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/react.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/sass.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/js.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/git.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/mongodb.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/ejs.png" />
-  <img width="40" src="https://www.estevan.dev.br/Assets/Images/Linguagens/handlebars.png" />
+<a href="https://estevan.dev.br/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&letterSpacing=1px&pause=1000&color=856652&center=true&vCenter=true&width=435&lines=Web+Full-stack+Developer;DiscordJS+Developer" alt="Typing SVG" /></a>
+  <br>
+  <br>
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=856652)](mailto:estevancv123@gmail.com)
+    [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=856652)](https://www.instagram.com/estevan.dev.br/)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=856652)](https://www.linkedin.com/in/jeallz/)
+    
+</div>
   
 </div>
 <br>
-<br>
-<details align="center">  
-  <summary>
+<details>  
+  <summary align="center">
       <samp>
         <b style="font-size: 15pt;">More Info</b>
       </samp>
@@ -45,53 +29,65 @@
   
   <br>
 
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=jeallz&show_icons=true&count_private=true&rank_icon=github&theme=calm&font=Montserrat"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeallz&layout=compact&font=Montserrat&langs_count=16&theme=calm"
-  />
-  </div>
-
-<br>
-
-##
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=e9dbc5)](mailto:estevancv123@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=e9dbc5)](https://www.instagram.com/estevan.dev.br/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=e9dbc5)](https://www.linkedin.com/in/jeallz/)
+  <h2>👋 About me</h2>
   
-</div>
-
-<div align="center">
-
-<p align="center">
-      <samp>
-        <a href="https://estevan.dev.br/">Portfólio</a> ・
-        <a href="https://linkedin.com/in/jeallz/">Linkedin</a> ・
-        <a href="https://instagram.com/estevan.dev.br/">Instagram</a>
-      </samp>
-  </p>
-
-</div>
-
-##
+```js
+class Estevan = {
+    constructor () {
+        name = "Estevan";
+        lastname = "Chicoski Vieira";
+        age = 19;
+        nationality = "Brazil"
+        favorite_language = "JavaScript";
+        languages = {
+            portuguese : "Fluent",
+            english : "Intermediate",
+            spanish : "Beginner"
+        };
+        coffee = true;
+    }
+}
+```
+<br><br>
+<h2>🛠️ Tech Stack</h2>
+<h3>Languages</h3>
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/html-5.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/css-3.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/js.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/node-js.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/typescript.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/lua.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/ejs.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/dart.png" />
+<br>
+<h3>Frameworks & Libraries</h3>
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/sass.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/react.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/next.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/nest.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/express.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/handlebars.png" />
+<br>
+<h3>Database & Cloud</h3>
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/mongodb.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/mysql.png" />
+<br>
+<h3>Tools & Plataform</h3>
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/vscode.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/git.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/github.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/cpanel.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/arduino.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/wordpress.png" />
+<br><br><br><br>
+<h2>📊 GitHub Stats</h2>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeallz&theme=github_dark" width="32%" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeallz&theme=github_dark" width="32%" alt="Top Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeallz&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
+  <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeallz&bg_color=0d1117&color=ffffff&line=856652&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Jeallz's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeallz&theme=github_dark" width="98%" alt="Profile Details"/>
 
 </details>
 
