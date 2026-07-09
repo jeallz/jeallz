@@ -86,7 +86,7 @@ class Estevan = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeallz&theme=calm" width="32%" alt="Top Languages by Commit"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeallz&theme=calm&utcOffset=5.5" width="32%" alt="Productive Time"/>
   <br>
-<br><br>
+<br><br><br>
 <h1>📈 Contribution Graph</h1>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeallz&bg_color=0d1117&color=ffffff&line=856652&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Jeallz's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
 
