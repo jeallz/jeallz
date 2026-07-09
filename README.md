@@ -4,7 +4,7 @@
 </div>
 <div align="center" width="100%">
   <a href="https://estevan.dev.br/">
-<img width="380px" src="https://www.estevan.dev.br/www.estevan.dev.br.png/" alr="Portfólio"/>
+<img width="320px" src="https://www.estevan.dev.br/www.estevan.dev.br.png/" alr="Portfólio"/>
 </a>
 <br>
 <a href="https://estevan.dev.br/"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&letterSpacing=1px&pause=1000&color=856652&center=true&vCenter=true&width=435&lines=Web+Full-stack+Developer;DiscordJS+Developer" alt="Typing SVG" /></a>
