@@ -37,6 +37,7 @@ class Estevan = {
     constructor () {
         name = "Estevan";
         lastname = "Chicoski Vieira";
+        nickname = "Jeallz";
         age = 19;
         nationality = "Brazil"
         favorite_language = "JavaScript";
