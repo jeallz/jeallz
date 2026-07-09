@@ -48,7 +48,7 @@ class Estevan = {
     }
 }
 ```
-<br><br>
+<br><br><br>
 <h1>🛠️ Tech Stack</h1>
 <h3>Languages</h3>
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/html-5.png" />
@@ -85,9 +85,25 @@ class Estevan = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeallz&theme=github_dark" width="32%" alt="Top Languages by Commit"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeallz&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
   <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeallz&bg_color=0d1117&color=ffffff&line=856652&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Jeallz's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
+  <br>
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeallz&theme=github_dark" width="98%" alt="Profile Details"/>
+<br><br>
+<h1>📈 Contribution Graph</h1>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeallz&bg_color=0d1117&color=ffffff&line=856652&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Jeallz's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
+
+<br><br><br>
+<h1>📫 Contact me</h1>
+
+```json
+{
+    "Email" : "estevancv123@gmail.com",
+    "Instagram" : "@estevan.dev.br",
+    "Linkedin" : "in/jeallz",
+    "WebSite" : "www.estevan.dev.br",
+    "Discord" : "jeallz"
+}
+```
 
 </details>
 
