@@ -53,7 +53,7 @@ class estevan = {
         if (coffee) {
             return "☕";
         } else {
-            return "😴";
+            return "😴"; // Go make coffee!
         }
     }
 }
