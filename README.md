@@ -81,13 +81,13 @@ class Estevan = {
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/wordpress.png" />
 <br><br><br><br>
 <h1>📊 GitHub Stats</h1>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeallz&theme=github_dark" width="32%" alt="Top Languages by Repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeallz&theme=github_dark" width="32%" alt="Top Languages by Commit"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeallz&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeallz&theme=calm" width="32%" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeallz&theme=calm" width="32%" alt="Top Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeallz&theme=calm&utcOffset=5.5" width="32%" alt="Productive Time"/>
   <br>
   <br>
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeallz&theme=github_dark" width="98%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeallz&theme=calm" width="98%" alt="Profile Details"/>
 <br><br>
 <h1>📈 Contribution Graph</h1>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeallz&bg_color=0d1117&color=ffffff&line=856652&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Jeallz's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
