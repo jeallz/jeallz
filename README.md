@@ -58,8 +58,9 @@ class Estevan = {
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/node-js.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/typescript.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/lua.png" />
-<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/ejs.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/dart.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/py.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/c.png" />
 <br>
 <h3>Frameworks & Libraries</h3>
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/sass.png" />
@@ -68,6 +69,7 @@ class Estevan = {
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/nest.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/express.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/handlebars.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/ejs.png" />
 <br>
 <h3>Database & Cloud</h3>
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/mongodb.png" />
