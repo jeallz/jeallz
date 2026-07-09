@@ -46,7 +46,7 @@ class estevan = {
             english : "Intermediate",
             spanish : "Beginner"
         };
-        this.coffee = this.hasCoffee(coffee);
+        this.coffee = this.hasCoffee(coffee); // required
     }
 
     hasCoffee(coffee) {
