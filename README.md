@@ -15,6 +15,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=856652)](mailto:estevancv123@gmail.com)
     [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=856652)](https://www.instagram.com/estevan.dev.br/)
     [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=856652)](https://www.linkedin.com/in/jeallz/)
+    [![WebSite](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=856652)](https://estevan.dev.br/)
     
 </div>
   
