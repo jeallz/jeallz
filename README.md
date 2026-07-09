@@ -106,8 +106,6 @@ class Estevan = {
 ```
 
 </details>
-
-<br>
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=856652&height=100&section=footer"/>
