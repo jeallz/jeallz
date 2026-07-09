@@ -68,6 +68,7 @@ class Estevan = {
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/next.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/nest.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/express.png" />
+<img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/djs.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/handlebars.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/ejs.png" />
 <br>
