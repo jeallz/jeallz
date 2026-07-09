@@ -29,7 +29,7 @@
   
   <br>
 
-  <h2>👋 About me</h2>
+  <h1>👋 About me</h1>
   
 ```js
 class Estevan = {
@@ -49,7 +49,7 @@ class Estevan = {
 }
 ```
 <br><br>
-<h2>🛠️ Tech Stack</h2>
+<h1>🛠️ Tech Stack</h1>
 <h3>Languages</h3>
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/html-5.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/css-3.png" />
@@ -80,7 +80,7 @@ class Estevan = {
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/arduino.png" />
 <img width="45" src="https://www.estevan.dev.br/Assets/Images/Linguagens/wordpress.png" />
 <br><br><br><br>
-<h2>📊 GitHub Stats</h2>
+<h1>📊 GitHub Stats</h1>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeallz&theme=github_dark" width="32%" alt="Top Languages by Repo"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeallz&theme=github_dark" width="32%" alt="Top Languages by Commit"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeallz&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
