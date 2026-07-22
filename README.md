@@ -16,7 +16,8 @@
     [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=856652)](https://www.instagram.com/estevan.dev.br/)
     [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=856652)](https://www.linkedin.com/in/jeallz/)
     [![WebSite](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=856652)](https://estevan.dev.br/)
-    
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=jeallz&style=for-the-badge&color=856652&label=Profile+Views" />
 </div>
   
 </div>
@@ -60,6 +61,13 @@ class estevan = {
 
 const Estevan = new estevan();
 ```
+
+<br>
+<div align="center">
+  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jeallz&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+</div>
+
 <br><br><br>
 <h1>🛠️ Tech Stack</h1>
 <h3>Languages</h3>
