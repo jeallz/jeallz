@@ -42,6 +42,10 @@ class estevan = {
         this.age = 19;
         this.nationality = "Brazil"
         this.favorite_language = "JavaScript";
+        this.university = {
+            institution : "UniGuairaca",
+            course : "TADS (Systems Analysis and Development)"
+        };
         this.languages = {
             portuguese : "Fluent",
             english : "Intermediate",
