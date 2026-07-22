@@ -41,7 +41,7 @@ class estevan = {
         this.nickname = "Jeallz";
         this.age = 19;
         this.nationality = "Brazil"
-        this.favorite_language = "JavaScript";
+        this.favorite_language = "TypeScript";
         this.university = {
             institution : "UniGuairaca",
             course : "TADS (Systems Analysis and Development)"
