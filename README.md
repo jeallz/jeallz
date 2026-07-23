@@ -128,13 +128,6 @@ const Estevan = new estevan();
     "Discord" : "jeallz"
 }
 ```
-<br><br>
-<div align="center">
-  <h1>For The Illusion Society</h1>
-  
-  <img width="580" height="180" alt="image" src="https://github.com/user-attachments/assets/4fece446-1ac7-485a-a708-c3603b08a70a" />
-</div>
-
 </details>
 <br>
 
