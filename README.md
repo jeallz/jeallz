@@ -128,7 +128,8 @@ const Estevan = new estevan();
     "Discord" : "jeallz"
 }
 ```
+
+<p align="center">:shipit:</p>
 </details>
 <br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=856652&height=100&section=footer"/>
