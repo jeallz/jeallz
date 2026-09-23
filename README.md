@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=220&section=header&text=Estevan%20Chicoski&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20|%20One%20Commit%20at%20a%20Time&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=220&section=header&text=Estevan%20Chicoski&fontSize=50&fontColor=060605&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20|%20One%20Commit%20at%20a%20Time&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 <div align="center">
 
 </div>
@@ -17,7 +17,7 @@
     [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jeallz/)
     [![WebSite](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://estevan.dev.br/)
     <br><br>
-    <img src="https://komarev.com/ghpvc/?username=jeallz&style=for-the-badge&color=000000&label=Profile+Views" />
+    <img src="https://komarev.com/ghpvc/?username=jeallz&style=for-the-badge&color=060605&label=Profile+Views" />
 </div>
   
 </div>
