@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:ffffff&height=220&section=header&text=Estevan%20Chicoski&fontSize=50&fontColor=060605&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20|%20One%20Commit%20at%20a%20Time&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:050505,100:050505&height=220&section=header&text=Estevan%20Chicoski&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20|%20One%20Commit%20at%20a%20Time&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 <div align="center">
 
 </div>
@@ -128,4 +128,4 @@ const Estevan = new estevan();
 <p align="center">:shipit:</p>
 </details>
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=100&section=footer"/>
