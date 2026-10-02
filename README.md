@@ -13,7 +13,7 @@
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:estevancv123@gmail.com)
-    [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/estevan.dev.br/)
+    [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/jeallz.js/)
     [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jeallz/)
     [![WebSite](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://estevan.dev.br/)
     <br><br>
@@ -118,7 +118,7 @@ const Estevan = new estevan();
 ```json
 {
     "Email" : "estevancv123@gmail.com",
-    "Instagram" : "@estevan.dev.br",
+    "Instagram" : "@jeallz.js",
     "Linkedin" : "in/jeallz",
     "WebSite" : "www.estevan.dev.br",
     "Discord" : "jeallz"
