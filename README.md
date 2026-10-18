@@ -13,8 +13,8 @@
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:estevancv123@gmail.com)
-    [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/jeallz.js/)
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jeallz/)
+    [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/estevan.dev.br/)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/estevanchicoski/)
     [![WebSite](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://estevan.dev.br/)
     <br><br>
     <img src="https://komarev.com/ghpvc/?username=jeallz&style=for-the-badge&color=060605&label=Profile+Views" />
@@ -118,8 +118,8 @@ const Estevan = new estevan();
 ```json
 {
     "Email" : "estevancv123@gmail.com",
-    "Instagram" : "@jeallz.js",
-    "Linkedin" : "in/jeallz",
+    "Instagram" : "@estevan.dev.br",
+    "Linkedin" : "in/estevanchicoski",
     "WebSite" : "www.estevan.dev.br",
     "Discord" : "jeallz"
 }
