@@ -117,7 +117,7 @@ const Estevan = new estevan();
 
 ```json
 {
-    "Email" : "estevancv123@gmail.com",
+    "Email" : "chicoskidev@gmail.com",
     "Instagram" : "@estevan.dev.br",
     "Linkedin" : "in/estevanchicoski",
     "WebSite" : "www.estevan.dev.br",
