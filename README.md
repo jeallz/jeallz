@@ -121,7 +121,8 @@ const Estevan = new estevan();
     "Instagram" : "@estevan.dev.br",
     "Linkedin" : "in/estevanchicoski",
     "WebSite" : "www.estevan.dev.br",
-    "Discord" : "jeallz"
+    "Discord" : "jeallz",
+    "Trivo" : "@thc"
 }
 ```
 
