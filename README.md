@@ -113,6 +113,32 @@ const Estevan = new estevan();
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeallz&theme=dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
   <br>
 <br><br><br>
+<h1>🏆 Highlights</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🥇 1st place · Engineering & Technology**
+<br>
+<sub>Educa Tech · Guarapuava (PR) · 2023</sub>
+
+I took first place in the Engineering and Technology category at Educa Tech.
+
+</td>
+<td width="50%" valign="top">
+
+**🖨️ A 3D printer for the school**
+<br>
+<sub>Colégio Cívico-Militar Manoel Ribas · Nov 24–25, 2022</sub>
+
+With **D’Dogs**, a project I developed, and teacher Guilherme Harmuch, we won a 3D printer for the school.
+
+</td>
+</tr>
+</table>
+<br>
+<br>
 <h1>📫 Contact me</h1>
 
 ```json
